@@ -5,20 +5,17 @@ We follow a systematic git workflow: <br/>
 * Create a fork of this repo.
 * Clone the fork of your repo on your PC.
 * **Every change** that you do, it has to be on a branch. Commits on master would directly be closed.
-* Make sure that you create a **new branch** for new changes.
+* Make sure that you create a **new branch** for new changes. \
+  *For more information on using git and github [Click here](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR).*
 
 ## Requirements ##
 
-* Node JS should be pre installed.
-* MongoDB should be pre installed.
+* [Node JS](https://nodejs.org/en/about/) should be pre installed.
+* [MongoDB](https://www.mongodb.com/) should be pre installed.
 
 ## Setup and Running of Project ##
 
-* Clone this repository on your local machine by typing the following command in terminal.
-   ```
-   https://github.com/MicrosoftStudentChapter/Techmeet-WebD.git
-   ```
-
+* Clone the fork of the repository on your local machine.
 * Navigate to the project folder.
 * Run the following command to install all the dependencies on your local system from `package.json` file.
    ``` 
