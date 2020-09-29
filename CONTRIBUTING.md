@@ -2,10 +2,8 @@
 
 We follow a systematic git workflow: <br/>
 
-* Clone this repository on your local machine by typing the following command in terminal.
-   ```
-   https://github.com/MicrosoftStudentChapter/Techmeet-WebD.git
-   ```
+* Create a fork of this repo.
+* Clone the fork of your repo on your PC.
 * **Every change** that you do, it has to be on a branch. Commits on master would directly be closed.
 * Make sure that you create a **new branch** for new changes.
 
