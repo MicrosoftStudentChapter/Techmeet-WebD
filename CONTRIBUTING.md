@@ -22,7 +22,7 @@ We follow a systematic git workflow: <br/>
    ```
 
 * Navigate to the project folder.
-* Run the following command to install the node_modules/ on your local system.
+* Run the following command to install all the dependencies on your local system from package.json file.
    ``` 
    npm i
    ```
