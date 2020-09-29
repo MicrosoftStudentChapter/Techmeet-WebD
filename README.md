@@ -1,5 +1,6 @@
 # TECHMEET #
 Hello Everyone, We are initiating project for Techmeet'2020. <br/><br/>
+You can view the deployed website by [Clicking here](https://techmeet-webd.herokuapp.com/).
 
 ## Stack Used ##
 M - MongoDB \
