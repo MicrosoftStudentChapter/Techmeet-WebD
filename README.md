@@ -36,3 +36,8 @@ N - Node.js <br/>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. <br/>
 Please make sure to update your local repository. <br/>
 For how to contribute kindly refer [CONTRIBUTING.md](https://github.com/MicrosoftStudentChapter/Techmeet-WebD/blob/master/CONTRIBUTING.md).
+
+## Some Mini Tasks 😉 ## 
+
+
+## Resources ##
