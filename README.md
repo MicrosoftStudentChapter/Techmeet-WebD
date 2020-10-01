@@ -42,3 +42,4 @@ For how to contribute kindly refer [CONTRIBUTING.md](https://github.com/Microsof
 
 
 ## Resources ##
+You can view the resources by [clicking here](https://docs.google.com/document/d/1EU9iw2xvGei3TVTv47adQHvR14U3W2GAc8nO6xlWu3Y/edit?usp=sharing).
