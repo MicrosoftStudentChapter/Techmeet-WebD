@@ -39,7 +39,10 @@ Please make sure to update your local repository. <br/>
 For how to contribute kindly refer [CONTRIBUTING.md](https://github.com/MicrosoftStudentChapter/Techmeet-WebD/blob/master/CONTRIBUTING.md).
 
 ## Some Mini Tasks 😉 ## 
-
+* Landing Page: Enlarge the font size for small devices. \
+  For details [click here](https://github.com/MicrosoftStudentChapter/Techmeet-WebD/issues/1). <br/>
+* About Page: Rectify the background issues. \
+  For details [click here](https://github.com/MicrosoftStudentChapter/Techmeet-WebD/issues/2).
 
 ## Resources ##
 You can view the resources by [clicking here](https://docs.google.com/document/d/1EU9iw2xvGei3TVTv47adQHvR14U3W2GAc8nO6xlWu3Y/edit?usp=sharing).
